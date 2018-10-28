@@ -5,3 +5,5 @@ tt
 print(a,b,c)
 print(a+b+c)
 sb
+print(a+b+c)
+ËûØí
